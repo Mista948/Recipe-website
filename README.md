@@ -1,1 +1,1 @@
-# Recipe-website
+This is my first attempt at making a website. My current knowledge is the basics of the basics of HTML. I only know how to make The HTML Boilerplate and a list at the moment.
